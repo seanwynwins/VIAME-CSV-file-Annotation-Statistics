@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Author: Sean-Wyn Ng
 """
 from __future__ import division
 import csv
